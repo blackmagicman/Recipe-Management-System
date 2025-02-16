@@ -11,7 +11,7 @@ The Recipe Management System is a web-based application designed to help users m
 - **Categorization:** Categorize recipes for better organization.
 - **Search Functionality:** Search for recipes based on keywords.
 - **Sharing:** Share recipes with other users.
-- **Responsive Design:** Compatible with both desktop and mobile devices.
+- **Responsive Design:** Compatible with both desktop and mobile devices.   
 
 ## Technologies Used
 
